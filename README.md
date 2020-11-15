@@ -11,6 +11,10 @@ identified as an orphan in any subsequent run. It may not do any harm, but I
 would be cautious anyways.
 
 ## Disclaimer
+Tested with `Python 3.7.3`.
+
+`Python 2.x` will not work!
+
 I am very aware that this script is no beauty and I only tested it for my
 setup.
 USE AT YOUR OWN RISK! Enjoy :)
